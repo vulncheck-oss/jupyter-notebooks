@@ -1,0 +1,10 @@
+vulncheck-sdk
+pandas
+plotly
+matplotlib
+seaborn
+calplot
+jupyter-book
+nbconvert
+ipython
+itables
