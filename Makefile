@@ -1,6 +1,7 @@
 .PHONY: build
 build:
 	jupyter nbconvert --to notebook --inplace --execute vulncheck-kev/vulncheck-kev-dashboard.ipynb
+	jupyter nbconvert --to notebook --inplace --execute exploitation-timeline/exploitation-timeline.ipynb
 
 .PHONY: deps
 deps:
