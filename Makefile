@@ -5,6 +5,7 @@ build:
 
 .PHONY: deps
 deps:
+	sudo apt-get update && \
 	sudo apt-get install jupyter unzip -y --fix-missing
 	python -m pip install --upgrade pip -r requirements.txt
 
