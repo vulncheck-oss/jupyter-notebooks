@@ -1,4 +1,4 @@
-vulncheck-sdk==0.0.7
+vulncheck-sdk==0.0.11
 pandas==2.2.3
 plotly==5.24.1
 matplotlib==3.10.0
